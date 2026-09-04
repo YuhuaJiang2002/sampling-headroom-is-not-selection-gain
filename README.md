@@ -1,6 +1,6 @@
 # Sampling Headroom Is Not Selection Gain
 
-Anonymous implementation and experiment code for **“Sampling Headroom Is Not
+Implementation and experiment code for **“Sampling Headroom Is Not
 Selection Gain: A Compute-Value Audit of Test-Time Scaling for Video World
 Models.”**
 
